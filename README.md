@@ -1,3 +1,3 @@
 # hello-world
 learning how to use github
-master branch
+edited the newly created branch
